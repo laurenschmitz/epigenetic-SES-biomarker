@@ -1,5 +1,5 @@
 # Analysis Code for "Epigenetic Biomarkers of Socioeconomic Status are Associated with Age-Related Chronic Diseases and Mortality in Older Adults"
-Authors:
+Authors: Lauren L. Schmitz, Lauren A. Opsasnick, Scott M. Ratliff, Jessica D. Faul, Wei Zhao, Timothy M. Hughes, Jingzhong Ding, Yongmei Liu, and Jennifer A. Smith
 
 Date posted: April 30, 2024
 
